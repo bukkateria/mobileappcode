@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294359979569",
+    "project_id": "bukkateria-app-be22a",
+    "storage_bucket": "bukkateria-app-be22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294359979569:android:353b1a4ea0c66496f7e710",
+        "android_client_info": {
+          "package_name": "com.bukataria.bukateria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294359979569-tto35fjqc0nr8h1u22ai7b9afv1l0g1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukataria.bukateria",
+            "certificate_hash": "b6471c61f6a7b3494c3c5452c815c16daeea5ae4"
+          }
+        },
+        {
+          "client_id": "294359979569-sgtkbnbpbib0tbcb2lrfmhtjd59bijkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC55s-BoQqcOZpbYDtmTUcECjA6VWZqmlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294359979569-sgtkbnbpbib0tbcb2lrfmhtjd59bijkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
